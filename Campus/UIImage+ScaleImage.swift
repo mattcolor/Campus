@@ -2,8 +2,8 @@
 //  UIImage+ScaleImage.swift
 //  Campus
 //
-//  Created by Ivan Dilchovski on 2/12/16.
-//  Copyright © 2016 Ivan Dilchovski. All rights reserved.
+//  Created by Matthew James on 2/12/16.
+//  Copyright © 2016 Matthew James. All rights reserved.
 //
 
 import Foundation

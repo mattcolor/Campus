@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Campus
 //
-//  Created by Ivan Dilchovski on 1/3/16.
-//  Copyright © 2016 Ivan Dilchovski. All rights reserved.
+//  Created by Matthew James on 1/3/16.
+//  Copyright © 2016 Matthew James. All rights reserved.
 //
 
 import UIKit

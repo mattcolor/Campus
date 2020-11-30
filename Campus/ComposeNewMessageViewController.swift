@@ -2,8 +2,8 @@
 //  ComposeNewMessageViewController.swift
 //  Campus
 //
-//  Created by Ivan Dilchovski on 3/15/16.
-//  Copyright © 2016 Ivan Dilchovski. All rights reserved.
+//  Created by Matthew James on 3/15/16.
+//  Copyright © 2016 Matthew James. All rights reserved.
 //
 
 import UIKit

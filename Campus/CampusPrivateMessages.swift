@@ -2,8 +2,8 @@
 //  CampusPrivateMessages.swift
 //  Campus
 //
-//  Created by Ivan Dilchovski on 2/9/16.
-//  Copyright © 2016 Ivan Dilchovski. All rights reserved.
+//  Created by Matthew James on 2/9/16.
+//  Copyright © 2016 Matthew James. All rights reserved.
 //
 
 import Foundation
